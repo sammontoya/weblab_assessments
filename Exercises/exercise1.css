@@ -1,0 +1,41 @@
+
+
+    .fat {
+        font-weight: bold;
+
+    }
+
+    .tiny {
+        font-size: 12px;
+
+    }
+
+    .sideways {
+        font-style: italic;
+    }
+
+    .inside {
+        margin:1em;
+    }
+
+    .graybottom {
+        border-bottom: 1px solid lightgray;
+
+    }
+    .colormegray {
+        color:#999;
+
+    }
+
+h1 {
+    text-align: center;
+    border-bottom: 2px groove white;
+    font-family: Arial;
+
+}
+ul {
+
+    list-style: none;
+
+
+}

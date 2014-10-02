@@ -1,0 +1,54 @@
+h1, h2
+{
+    text-align:center;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: 'Ek Mukta', sans-serif;
+}
+#chaptertext {
+    text-align: left;
+    max-width:550px;
+    height:650px;
+    width:100%;
+    margin: 15px auto;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,1);
+    overflow: auto;
+    /*overflow will keep content in the box auto allows for scrolling other option is hidden but will not let us see it; overflow-y:scroll will do the same thing.  */
+    word-wrap:normal;
+
+}
+.fat {
+    font-weight bold;
+}
+
+.sideways {
+    font-style: italic;
+}
+.inthemiddle {
+    text-align: center;
+}
+
+#chapters ul li {
+    list-style-type: none;
+    text-align: left;
+    font-family: 'Khand', sans-serif;
+}
+#contextbox {
+    max-width:400px;
+    margin: 15px auto;
+    border:1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,1);
+    }
+h3{
+    font-family: 'Khand', sans-serif;
+    text-align: center;
+}
+
+body{
+    margin:0px;
+    background-image: url ("prettypic.jpg");
+}
