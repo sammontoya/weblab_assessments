@@ -14,7 +14,7 @@ h1, h2
     padding: 1em;
     border: 1px solid #ccc;
     border-radius: 5px;
-    box-shadow: 2px 2px 5px rgba(0,0,0,1);
+    box-shadow: 2px 8px 8px rgba(0,0,0,1);
     overflow: auto;
     /*overflow will keep content in the box auto allows for scrolling other option is hidden but will not let us see it; overflow-y:scroll will do the same thing.  */
     word-wrap:normal;
@@ -48,7 +48,7 @@ h3{
     text-align: center;
 }
 
-body{
+.alice {
     margin:0px;
-    background-image: url ("prettypic.jpg");
+    background-image: url (http://www.alice-in-wonderland.net/alicepic/nursery-alice/10.jpg);
 }

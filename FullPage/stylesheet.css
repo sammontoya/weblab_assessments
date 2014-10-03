@@ -1,0 +1,96 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+
+#header {
+    background-image:url("img/header_background.jpg");
+    width: 1180px;
+    height: 624px;
+
+
+}
+#header ul li {
+    display: inline;
+    color:white;
+    padding: 0 15px;
+    position: relative;
+    float:right;
+    margin:25px 10px 0 0;
+
+
+}
+#header #logo {
+    display: inline;
+}
+h1 {
+
+    color: white;
+    position: relative;
+    top:385px;
+    left:10px;
+    text-align: left;
+    padding-left: 75px;
+    padding-right: 50px;
+    overflow-wrap: normal;
+
+}
+h3 {
+    font-weight: bold;
+    color: white;
+    position: relative;
+    top:455px;
+    left:10px;
+    text-align: left;
+    margin: 15px auto;
+    overflow-wrap: normal;
+    padding-left: 75px;
+    padding-right: 50px;
+
+}
+/*h4{*/
+    /*color:white;*/
+    /*height:50px;*/
+    /*background:#25aa99;*/
+    /*margin-left: 50px;*/
+    /*margin-right: 50px;*/
+    /*border:transparent;*/
+    /*border-radius: 5px;*/
+    /*padding-left: 20px;*/
+    /*padding-right: 20px;*/
+    /*line-height: 3em;*/
+/*}*/
+
+button.recommend,
+[role="button"].recommend {
+    background-color: #25aa99;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-left:75px;
+    padding-right: 55px;
+    padding-left:20px;
+    height: 55px;
+    border:transparent;
+
+}
+
+.finding {
+    font-size: 36px;
+}
+#main {
+
+    margin-left: 75px;
+    margin-right: 55px;
+
+
+}
+.turque {
+    background-color:#25aa99;
+    height:75px;
+    width:100%;
+}
+.verybottom {
+    background-color:#d8d9dd;
+    height:200px;
+    width:100%;
+}
