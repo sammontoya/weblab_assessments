@@ -1,0 +1,163 @@
+.firstRow{
+    position: relative;
+    text-align: center;
+}
+
+.secondRow {
+    position: relative;
+    text-align: center;
+}
+
+.thirdRow {
+    position: relative;
+    text-align: center;
+}
+
+.lastRow{
+    position: relative;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    color:white;
+}
+
+#header {
+    height: 100px;
+    background-color: teal;
+    border-bottom: 5px dotted white;
+    margin: 0px;
+    position: relative;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding: 25px;
+}
+#aaron {
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/aaroni.jpg");
+}
+#adelle{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/adellecharles.jpg");
+}
+
+#arpit{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/arpitnj.jpg");
+}
+#awelfle{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/awelfle.jpg");
+}
+#chexee{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/chexee.jpg");
+}
+#jason{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/jasonlong.jpg");
+}
+#jenny{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/jennyshen.jpg");
+}
+#kfried{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/kfriedson.jpg");
+}
+#lady{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/ladylexy.jpg");
+}
+#letter{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/lettershoppe.jpg");
+}
+#mlane{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/mlane.jpg");
+
+}
+#netta{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/nettatheninja.jpg");
+}
+#nikki{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/nikkitaftw.jpg");
+}
+#ok{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/ok.jpg");
+}
+#peter{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/peterlandt.jpg");
+}
+#raquel{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/raquelromanp.jpg");
+}
+#style{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/stylecampaign.jpg");
+}
+#vin{
+    width: 128px;
+    height: 128px;
+    margin: 25px;
+    background-image: url("img/vinthomas.jpg");
+}
+
+#twitter{
+    width:25px;
+    height: 25px;
+
+    text-align: right;
+    background-image: url("http://www.thedrum.com/uploads/drum_basic_article/123387/main_images/Twitter%20bird%20logo.jpg");
+}
+
+#footer{
+    height: 80px;
+    background-color: teal;
+    border-top: 5px dotted white;
+}
